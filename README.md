@@ -16,7 +16,7 @@
 
 ## 📂 Project File
 
-- **`(https://github.com/ImaneImn/Fish-Catcher-GAME/blob/main/Fish%20Catcher%20(2)).sb3`** – The full Scratch game file
+- **`(https://github.com/ImaneImn/Fish-Catcher-GAME/blob/main/Fish%20Catcher%20(2).sb3)`** – The full Scratch game file
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 🔗 Download the Game
 
-👉 [Download `(https://github.com/ImaneImn/Fish-Catcher-GAME/blob/main/Fish%20Catcher%20(2)).sb3`](https://github.com/ImaneImn/fish-catcher/blob/main/Fish%20Catcher%20(2).sb3)
+👉 [Download `(https://github.com/ImaneImn/Fish-Catcher-GAME/blob/main/Fish%20Catcher%20(2).sb3)`](https://github.com/ImaneImn/fish-catcher/blob/main/Fish%20Catcher%20(2).sb3)
 
 ---
 
