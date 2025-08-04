@@ -35,7 +35,7 @@
 
 ## 🔗 Download the Game
 
-👉 [Download `Fish Catcher (2).sb3`](https://github.com/ImaneImn/fish-catcher/blob/main/Fish%20Catcher%20(2).sb3)
+👉 [Download `Fish Catcher (2).sb3`](https://github.com/ImaneImn/Fish-Catcher-GAME)
 
 ---
 
